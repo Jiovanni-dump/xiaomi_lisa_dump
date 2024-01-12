@@ -1,0 +1,14 @@
+system_ext/priv-app/Settings/Settings.apk.xz
+system_ext/apex/com.android.vndk.v30.apex.xz
+product/priv-app/Velvet/Velvet.apk.xz
+product/priv-app/Gallery_T_Global/Gallery_T_Global.apk.xz
+product/priv-app/ExtraPhotoGlobal/ExtraPhotoGlobal.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/app/Messages/Messages.apk.xz
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+product/data-app/Opera/Opera.apk.xz
+product/data-app/MIBrowserGlobal_removable/MIBrowserGlobal_removable.apk.xz
+product/data-app/MicrosoftOneDrive/MicrosoftOneDrive.apk.xz
+vendor/etc/camera/st_license.lic.xz
+modem.img.xz
+boot.img.xz
