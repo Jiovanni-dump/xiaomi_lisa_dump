@@ -1,0 +1,14 @@
+# missi_phone_cn-user 14 UKQ1.231108.001 V816.0.1.0.UKOCNXM release-keys
+- manufacturer: xiaomi
+- platform: lahaina
+- codename: lisa
+- flavor: missi_phone_cn-user
+- release: 14
+- id: UKQ1.231108.001
+- incremental: V816.0.1.0.UKOCNXM
+- tags: release-keys
+- fingerprint: Xiaomi/lisa/lisa:13/RKQ1.211001.001/V816.0.1.0.UKOCNXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_phone_cn-user-14-UKQ1.231108.001-V816.0.1.0.UKOCNXM-release-keys
+- repo: xiaomi_lisa_dump
